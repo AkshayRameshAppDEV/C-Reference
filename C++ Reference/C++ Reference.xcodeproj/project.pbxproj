@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B9E13E0626F6FB39000E80C4 /* mathFunctions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */; };
+		B9E13E0626F6FB39000E80C4 /* pointersAndRefs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B9E13E0426F6FB39000E80C4 /* pointersAndRefs.cpp */; };
 		B9E13E0A26F6FBC3000E80C4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B9E13E0926F6FBC3000E80C4 /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		B9E13DFA26F6FAFA000E80C4 /* C++ Reference */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++ Reference"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mathFunctions.cpp; sourceTree = "<group>"; };
+		B9E13E0426F6FB39000E80C4 /* pointersAndRefs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = pointersAndRefs.cpp; sourceTree = "<group>"; };
 		B9E13E0526F6FB39000E80C4 /* pointersAndRefs.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = pointersAndRefs.hpp; sourceTree = "<group>"; };
 		B9E13E0926F6FBC3000E80C4 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,7 +69,7 @@
 		B9E13E0D26F77059000E80C4 /* Pointers And Refs */ = {
 			isa = PBXGroup;
 			children = (
-				B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */,
+				B9E13E0426F6FB39000E80C4 /* pointersAndRefs.cpp */,
 				B9E13E0526F6FB39000E80C4 /* pointersAndRefs.hpp */,
 			);
 			path = "Pointers And Refs";
@@ -132,7 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9E13E0A26F6FBC3000E80C4 /* main.cpp in Sources */,
-				B9E13E0626F6FB39000E80C4 /* mathFunctions.cpp in Sources */,
+				B9E13E0626F6FB39000E80C4 /* pointersAndRefs.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
