@@ -5,8 +5,8 @@
 //  Created by Akshay Ramesh on 9/18/21.
 //
 
-#ifndef mathFunctions_hpp
-#define mathFunctions_hpp
+#ifndef pointersAndRefs_hpp
+#define pointersAndRefs_hpp
 
 #include <stdio.h>
 

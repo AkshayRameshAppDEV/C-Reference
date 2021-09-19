@@ -26,7 +26,7 @@
 /* Begin PBXFileReference section */
 		B9E13DFA26F6FAFA000E80C4 /* C++ Reference */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++ Reference"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mathFunctions.cpp; sourceTree = "<group>"; };
-		B9E13E0526F6FB39000E80C4 /* mathFunctions.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = mathFunctions.hpp; sourceTree = "<group>"; };
+		B9E13E0526F6FB39000E80C4 /* pointersAndRefs.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = pointersAndRefs.hpp; sourceTree = "<group>"; };
 		B9E13E0926F6FBC3000E80C4 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,7 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */,
-				B9E13E0526F6FB39000E80C4 /* mathFunctions.hpp */,
+				B9E13E0526F6FB39000E80C4 /* pointersAndRefs.hpp */,
 			);
 			path = "Pointers And Refs";
 			sourceTree = "<group>";

@@ -1,6 +1,6 @@
 // This is the first c++ assignment
 #include <iostream>
-#include "mathFunctions.hpp"
+#include "pointersAndRefs.hpp"
 using namespace::std;
 
 int main() {
