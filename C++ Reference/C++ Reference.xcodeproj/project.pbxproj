@@ -60,11 +60,19 @@
 		B9E13DFC26F6FAFA000E80C4 /* C++ Reference */ = {
 			isa = PBXGroup;
 			children = (
-				B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */,
-				B9E13E0526F6FB39000E80C4 /* mathFunctions.hpp */,
+				B9E13E0D26F77059000E80C4 /* Pointers And Refs */,
 				B9E13E0926F6FBC3000E80C4 /* main.cpp */,
 			);
 			path = "C++ Reference";
+			sourceTree = "<group>";
+		};
+		B9E13E0D26F77059000E80C4 /* Pointers And Refs */ = {
+			isa = PBXGroup;
+			children = (
+				B9E13E0426F6FB39000E80C4 /* mathFunctions.cpp */,
+				B9E13E0526F6FB39000E80C4 /* mathFunctions.hpp */,
+			);
+			path = "Pointers And Refs";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
